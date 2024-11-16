@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deneth Chathuranga</h1>
 <h3 align="center">I'm a Software Engineering student who is like to explore modern technologies and methods.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deneth0077&label=Profile%20views&color=0e75b6&style=flat" alt="deneth0077" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deneth0077&label=Profile%20views&color=0e75b6&style=flat" alt="deneth0077" /> </p>
 
 - 🔭 I’m currently studying at **SLIIT**
 
