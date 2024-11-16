@@ -55,6 +55,12 @@ _<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img 
   _ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   _<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deneth0077&show_icons=true&locale=en&layout=compact" alt="deneth0077" /></p>
+<br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=deneth0077&show_icons=true&locale=en" alt="deneth0077" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deneth0077&show_icons=true&locale=en&layout=compact" alt="deneth0077" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deneth0077&show_icons=true&locale=en" alt="deneth0077" /></p>
+ ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
