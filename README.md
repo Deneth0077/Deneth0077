@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deneth Chathuranga</h1>
-<h3 align="center">A passionate Full Stack developer from Srilanka</h3>
+<h3 align="center">I'm a Software Engineering student who is like to explore modern technologies and methods.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deneth0077&label=Profile%20views&color=0e75b6&style=flat" alt="deneth0077" /> </p>
 
-- 🌱 I’m currently learning Spring and Web Technologies. **Java**
+- 🔭 I’m currently studying at **SLIIT**
 
-- 💬 Ask me about Web and Java SE **Angular, React**
+- 🌱 I’m currently learning Spring and Web Technologies.
+
+- 👯I’m looking to collaborate on **Java and Web Projects**
+
+- 💬 Ask me about **Web and Java SE**
 
 - 📫 How to reach me **chathurangakhd@gmail.com**
 
